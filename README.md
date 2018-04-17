@@ -35,7 +35,8 @@ l'email envoyé: le nombre de mairies touchée: le handle Twitter qui a été ut
 
 ## La Team <3 :heart:
 
-Alex, Aude & Jordane
+**Alex, Aude & Jordane
+
 * Avec l'aide de...
 * Visual Studio Code pour Aude & Alex
 * Sublime Text pour Jordane
