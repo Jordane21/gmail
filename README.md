@@ -18,8 +18,14 @@ Notre dossier Gmail est constitué en 4 grandes parties :
 
 ## Comment se servir du programme et les gems utilisées
 
-Quelques pré-requis : 
+Pour faire tourner tous les fichiers, il est nécessaire d'installer plusieurs gems. 
+Pour cela, rien de plus simple : une fois le dossier cloné sur l'ordinateur, 
+```$ git clone https://github.com/Arak00/gmail.git```
+il suffit d'accéder au dossier et de faire 
+```$ bundle install```
+Et voilà, toutes les gems sont installés !
 
+Liens githubs des pré-requis : 
 * [Nokogiri](https://github.com/sparklemotion/nokogiri)
 * [Google Drive Ruby](https://github.com/gimite/google-drive-ruby)
 * [Gem Gmail](https://github.com/gmailgem/gmail)
@@ -29,10 +35,11 @@ Quelques pré-requis :
 > N’oubliez pas de configurer votre config.json avec vos tokens pour que les programmes fonctionnent !
 
 ## Ce qui a été fait :
-l'email envoyé: le nombre de mairies touchée: le handle Twitter qui a été utilisé
-- [x] Fait
-- [ ] En cours
-- [ ] Inachevé
+
+- [x] Scraping des données
+- [x] Données enregistrées sur notre Spreadsheet
+- [ ] Envoi des mails aux mairies
+- [ ] Bot Twitter 
 
 ## La Team <3 :heart:
 
