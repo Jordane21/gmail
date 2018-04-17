@@ -25,7 +25,7 @@ Quelques pré-requis :
 * [Gem Gmail](https://github.com/gmailgem/gmail)
 * [Dotenv](https://github.com/bkeepers/dotenv)
 
->** :warning: IMPORTANT :warning:  N’oubliez pas de configurer votre config.json avec vos tokens pour que les programmes fonctionnent !**
+> :warning: IMPORTANT :warning:  N’oubliez pas de configurer votre config.json avec vos tokens pour que les programmes fonctionnent !**
 
 ## Ce qui a été fait :
 l'email envoyé: le nombre de mairies touchée: le handle Twitter qui a été utilisé
@@ -40,7 +40,7 @@ Alex, Aude & Jordane
 * Visual Studio Code pour Aude & Alex
 * Sublime Text pour Jordane
 
-######Nos Slacks :love_letter:
+###### Nos Slacks :love_letter:
 
 * Alex : @Alex_C
 * Aude : @Aude
